@@ -11,8 +11,8 @@
 
 > **Building robust, scalable data infrastructure that transforms raw data into actionable insights.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karim%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-karim%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karim%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karim-elprince)
+[![Email](https://img.shields.io/badge/Email-karim%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.khaled252011@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-karim31003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karim31003)
 [![Profile Views](https://komarev.com/ghpvc/?username=karim31003&style=for-the-badge&color=0078D4&label=Profile+Views)](https://github.com/karim31003)
 
