@@ -1,20 +1,16 @@
+# <div align="center">Hi 👋, I'm Karim Khaled</div>
+
 <div align="center">
 
-<!-- Dynamic Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Karim+Khaled+%F0%9F%91%8B;Data+Engineer+%7C+Pipeline+Architect;Turning+Raw+Data+into+Business+Value;Azure+%7C+AWS+%7C+Python+%7C+Spark)](https://git.io/typing-svg)
+### Junior Data Engineer | Python Developer | Cloud & Data Enthusiast
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00B4D8&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Junior+Data+Engineer;Building+Data+Pipelines;Learning+Cloud+and+Big+Data;Python+%7C+SQL+%7C+Spark+%7C+Azure" />
 
----
+<br>
 
-### 🧭 *Data Engineer · Pipeline Architect · Cloud Enthusiast*
-
-> **Building robust, scalable data infrastructure that transforms raw data into actionable insights.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karim%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karim-elprince)
-[![Email](https://img.shields.io/badge/Email-karim%40email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.khaled252011@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-karim31003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karim31003)
-[![Profile Views](https://komarev.com/ghpvc/?username=karim31003&style=for-the-badge&color=0078D4&label=Profile+Views)](https://github.com/karim31003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karim%20Khaled-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/karim-elprince)
+[![GitHub](https://img.shields.io/badge/GitHub-karim31003-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/karim31003)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:karim.khaled252011@gmail.com)
 
 </div>
 
@@ -22,119 +18,106 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Engineer** passionate about designing and building end-to-end data systems — from ingestion and transformation to warehousing and analytics delivery. I specialize in crafting **scalable ETL/ELT pipelines**, real-time streaming architectures, and cloud-native data solutions on **Azure** and **AWS**.
+I'm a Computer Engineering graduate with a strong interest in Data Engineering and Cloud Technologies.
 
-I thrive at the intersection of **engineering rigor** and **business impact** — ensuring that the data powering decisions is reliable, timely, and accessible.
+My goal is to build scalable data systems that collect, transform, and deliver data efficiently for analytics and decision-making.
 
-- 🔧 &nbsp;Building production-grade data pipelines with **Python**, **Apache Spark**, and **Apache Airflow**
-- ☁️ &nbsp;Deploying cloud-native data solutions on **Microsoft Azure** & **AWS**
-- 📊 &nbsp;Designing **data warehouses** and **dimensional models** for analytics at scale
-- 🌊 &nbsp;Working with real-time data streams using **Apache Kafka**
-- 🏆 &nbsp;Certified **Microsoft Azure Data Engineer Associate**
-- 🎯 &nbsp;Open to Data Engineering roles — let's connect!
+Currently, I'm focusing on:
+
+* 🐍 Python for Data Engineering
+* 🗄 SQL and Database Design
+* ⚡ Apache Spark
+* 🔄 ETL/ELT Pipelines
+* ☁ Azure & AWS Cloud Services
+* 📊 Data Warehousing
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Tech Stack
 
-### Languages & Query
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+### Programming
 
-### Data Engineering & Big Data
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
 
-### Cloud Platforms
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+### Data Engineering
 
-### Databases & Warehousing
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Cloud
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚡ Real-Time Streaming Data Pipeline
-> *Apache Kafka · Apache Spark Streaming · Python · AWS S3 · PostgreSQL*
+### 🌱 Plant Disease Detection System
 
-A production-style event-driven pipeline that ingests, processes, and stores high-throughput streaming data in near real-time. Implements exactly-once delivery semantics, schema validation, and automated alerting for pipeline failures.
+Machine Learning application that detects plant diseases from leaf images.
 
-- 📌 Handles thousands of events per second with sub-second latency
-- 📌 Fault-tolerant architecture with dead-letter queues and replay capabilities
-- 📌 Automated monitoring and alerting via custom health-check scripts
+**Tech Stack**
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karim31003)
+* Python
+* PyTorch
+* Flutter
+* FastAPI
 
----
+### 📈 Stock Market Analytics Platform
 
-### 🔄 Automated ETL Pipeline Framework
-> *Apache Airflow · Python · PostgreSQL · Microsoft Azure · dbt*
+Data pipeline for collecting, transforming, and analyzing stock market data.
 
-An end-to-end ETL orchestration framework that automates the extraction, transformation, and loading of multi-source data into a centralized data warehouse. Features modular DAG design, retry logic, and SLA monitoring.
+**Tech Stack**
 
-- 📌 Reduced manual data processing time by eliminating repetitive ingestion tasks
-- 📌 Modular pipeline components reusable across multiple data sources
-- 📌 Data quality checks embedded at every transformation stage
+* Python
+* Pandas
+* SQL
+* Visualization Tools
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karim31003)
+### ⚡ Real-Time Data Pipeline
 
----
+Learning project for building streaming architectures using Kafka and Spark.
 
-### 🏛️ Cloud Data Warehouse Design
-> *Azure Synapse Analytics · SQL · Python · Power BI · Dimensional Modeling*
+**Tech Stack**
 
-Designed and implemented a star-schema data warehouse following Kimball methodology, enabling self-serve analytics for business stakeholders. Includes fact tables, slowly changing dimensions (SCDs), and optimized query performance.
-
-- 📌 Star schema design supporting complex analytical queries
-- 📌 Implemented SCD Type 2 for full historical data tracking
-- 📌 Partitioned and indexed tables for optimized query performance
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karim31003)
+* Kafka
+* Spark
+* Python
+* PostgreSQL
 
 ---
 
-## 📈 Data Engineering Expertise
+## 📚 Currently Learning
 
-```
-Data Engineering Stack
-│
-├── Ingestion Layer
-│   ├── Batch       →  Apache Spark, AWS Glue, Python scripts
-│   └── Streaming   →  Apache Kafka, Azure Event Hubs
-│
-├── Orchestration Layer
-│   └── Workflow    →  Apache Airflow (DAGs, SLAs, retries)
-│
-├── Transformation Layer
-│   ├── Batch ELT   →  dbt, PySpark, SQL
-│   └── Real-Time   →  Spark Streaming, Kafka Streams
-│
-├── Storage Layer
-│   ├── Data Lake   →  Azure Data Lake, AWS S3
-│   ├── Warehouse   →  Azure Synapse, Snowflake, PostgreSQL
-│   └── Cache       →  Redis
-│
-└── Analytics Layer
-    └── BI & Reports →  Power BI, SQL, Python (pandas)
+```text
+✅ Python
+✅ SQL
+✅ Data Modeling
+✅ ETL Development
+
+🔄 Apache Spark
+🔄 Apache Airflow
+🔄 Azure Data Factory
+🔄 AWS Glue
+
+🎯 Next Goal:
+Build a complete end-to-end cloud data engineering project
 ```
 
 ---
@@ -143,43 +126,41 @@ Data Engineering Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karim31003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=00B4D8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim31003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karim31003&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=karim31003&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=00B4D8&currStreakLabel=0078D4"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim31003&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
+<br><br>
 
----
-
-## 🏅 Certifications & Education
-
-| Certification | Issuer | Status |
-|---|---|---|
-| 🏆 **Microsoft Certified: Azure Data Engineer Associate** | Microsoft | ✅ Certified |
-
-> 📚 *Continuously expanding expertise through hands-on projects, online courses, and industry best practices in data engineering and cloud architecture.*
-
----
-
-## 🤝 Let's Connect
-
-I'm actively seeking **Data Engineer** opportunities where I can contribute to scalable data infrastructure, drive engineering best practices, and deliver measurable business value through data.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karim-elprince)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.khaled252011@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karim31003)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karim31003&theme=github_dark"/>
 
 </div>
 
 ---
 
+## 🎯 2026 Goals
+
+* Build 5 strong Data Engineering projects
+* Master Apache Spark
+* Learn Airflow orchestration
+* Deploy projects on Azure and AWS
+* Contribute to open-source projects
+* Land a Data Engineer role
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: linkedin.com/in/karim-elprince
+* GitHub: github.com/karim31003
+* Email: [karim.khaled252011@gmail.com](mailto:karim.khaled252011@gmail.com)
+
+---
+
 <div align="center">
 
-*"Data is not just information — it's the foundation of every great decision."*
+### Thanks for visiting my profile ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0078D4&height=100&section=footer" width="100%"/>
+Building data solutions one pipeline at a time.
 
 </div>
