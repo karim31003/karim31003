@@ -122,22 +122,6 @@ Build a complete end-to-end cloud data engineering project
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karim31003&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim31003&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karim31003&theme=github_dark"/>
-
-</div>
-
----
-
 ## 🎯 2026 Goals
 
 * Build 5 strong Data Engineering projects
